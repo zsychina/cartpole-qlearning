@@ -17,6 +17,7 @@ conda install gym[all]
 ## 预期结果
 
 ![cartpole](./img/cartpole.png)
+![result](./out/rewards.png)
 
 ## 原理
 
